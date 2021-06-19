@@ -1,5 +1,5 @@
 # Prediction-using-Supervised-ML-TSF-GRIPJune21
-From <b>#GRIPMAR2021</b>
+From <b>#GRIPJUNE2021</b>
 
 This is presented by Sumeet Gedam, a Data Science and Business Analytics intern at <b>The Sparks Foundation.</b>
 
